@@ -1,0 +1,6 @@
+{
+  "name": "Gamuzo Thumbnail Youtube Creator",
+  "description": "Professional Creative Director suite for YouTubers to design high-CTR gaming thumbnails using Arabic voice and text commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

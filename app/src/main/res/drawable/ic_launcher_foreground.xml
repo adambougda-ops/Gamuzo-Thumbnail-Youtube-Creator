@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Viewfinder / Camera corners (Gamer Green) -->
+    <path
+        android:strokeColor="#00FF66"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 32,26 L 24,26 L 24,34" />
+    <path
+        android:strokeColor="#00FF66"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 76,26 L 84,26 L 84,34" />
+    <path
+        android:strokeColor="#00FF66"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 24,74 L 24,82 L 32,82" />
+    <path
+        android:strokeColor="#00FF66"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 84,74 L 84,82 L 76,82" />
+
+    <!-- Center Gamepad Controller (Cyber Purple) -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M38,42 C33,42 28,45 28,51 C28,58 32,66 40,66 C43,66 46,64 48,61 C50,60 52,60 54,61 C56,64 59,66 62,66 C70,66 74,58 74,51 C74,45 69,42 64,42 L38,42 Z" />
+    
+    <!-- Controller D-Pad details (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,50 L35,50 L35,52 L33,52 L33,54 L35,54 L35,56 L37,56 L37,54 L39,54 L39,52 L37,52 Z" />
+
+    <!-- Controller Button 1 (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 59.2,51 a 1.8,1.8 0 1,0 3.6,0 a 1.8,1.8 0 1,0 -3.6,0" />
+
+    <!-- Controller Button 2 (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 63.2,55 a 1.8,1.8 0 1,0 3.6,0 a 1.8,1.8 0 1,0 -3.6,0" />
+
+    <!-- Spark / Energy glow indicating high CTR (Hot Orange) -->
+    <path
+        android:fillColor="#FF5500"
+        android:pathData="M 54,26 L 56,32 L 62,34 L 56,36 L 54,42 L 52,36 L 46,34 L 52,32 Z" />
+</vector>
